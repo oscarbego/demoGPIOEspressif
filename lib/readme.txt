@@ -8,6 +8,8 @@ The source code of each library should be placed in separate directories, like
 For example, see the structure of the following two libraries `Foo` and `Bar`:
 
 
+
+
 |--lib
 |  |
 |  |--Bar
